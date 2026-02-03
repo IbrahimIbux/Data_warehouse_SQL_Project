@@ -1,4 +1,4 @@
-# Dataware_house_SQL_Project
+# Data_warehouse_SQL_Project
 # SQL Data Warehouse Project
 
 ## Overview
