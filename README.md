@@ -2,8 +2,9 @@
 # SQL Data Warehouse Project
 
 ## Overview
-This project demonstrates a **simple SQL-based data warehouse** built using a layered architecture.  
-The goal is to show how raw data can be ingested, cleaned, and transformed into analytics-ready tables using SQL.
+This project implements a SQL-based data warehouse using a layered architecture to transform raw source data into analytics-ready datasets. It focuses on practical data engineering concepts such as ETL pipelines, data cleaning, and dimensional modeling.
+
+The objective is to demonstrate how structured data can be ingested, processed, and prepared for reporting using SQL.
 
 ---
 
