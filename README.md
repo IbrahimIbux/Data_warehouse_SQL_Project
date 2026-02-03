@@ -33,3 +33,4 @@ The project follows a simplified **Medallion Architecture**:
 ---
 
 ## Project Structure
+<img width="787" height="542" alt="Data architecture diagram drawio" src="https://github.com/user-attachments/assets/50ecf174-4350-4d0c-a460-21c0f9dd1f88" />
